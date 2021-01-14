@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 4rem;
+}
+.primary-color{
+    color: #FA804C;
+}
+.secondary-color{
+    color: #363958;
+}
+.bg-primary-color{
+background: lightyellow;}
+
+.bg-secondary-color{
+    background: lightgray;
+    
+}
+#subscribe{
+    background-color: lightskyblue;
+}
+footer{
+    text-align: center;
+}
